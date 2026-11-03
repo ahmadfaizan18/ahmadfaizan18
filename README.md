@@ -65,5 +65,6 @@ A real-time tracking application.
 ### Connect With Me
 
 - GitHub: [@ahmadfaizan18](https://github.com/ahmadfaizan18)
-- LinkedIn: (https://www.linkedin.com/in/faizan-ahmad-ansari-119bb9263)](#)
-- Email: [ahmadfaizan1477@gmail.com](#)
+- LinkedIn: [Faizan Ahmad Ansari](https://www.linkedin.com/in/faizan-ahmad-ansari-119bb9263)
+- LeetCode: [ahmad_faizan](https://leetcode.com/u/ahmad_faizan/)
+- Email: [ahmadfaizan1477@gmail.com](ahmadfaizan1477@gmail.com)
