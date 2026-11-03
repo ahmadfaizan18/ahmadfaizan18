@@ -66,4 +66,4 @@ A real-time tracking application.
 
 - GitHub: [@ahmadfaizan18](https://github.com/ahmadfaizan18)
 - LinkedIn: (https://www.linkedin.com/in/faizan-ahmad-ansari-119bb9263)](#)
-- Email: [ahmadfaizan1477@gmai.com](#)
+- Email: [ahmadfaizan1477@gmail.com](#)
