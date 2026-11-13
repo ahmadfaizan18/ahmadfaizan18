@@ -1,70 +1,115 @@
-# Hi, I'm Faizan Ahmad Ansari
+# <p align="center">👋 Hi, I'm Faizan Ahmad Ansari</p>
 
-### Full Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
 
-I'm a developer interested in building scalable web applications, backend systems, and real-time applications. I enjoy solving problems, exploring new technologies, and contributing to open-source projects.
-
-- Currently working with **PERN Stack**
-- Interested in **Backend Development, System Design, and Full Stack Engineering**
-- Open-source contributor at **DevBoard**
-
----
-
-### Tech Stack
-
-**Languages**
-
-Java · JavaScript · TypeScript · Python
-
-**Frontend**
-
-React.js · Redux · Tailwind CSS · HTML · CSS · Next.js
-
-**Backend**
-
-Node.js · Express.js · Spring Boot · REST APIs · Socket.IO · JWT
-
-**Databases**
-
-PostgreSQL · MongoDB · Redis
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+ahmadfaizan18+%F0%9F%91%8B&center=true&width=500&height=45">
+</p>
 
 ---
 
-### Featured Projects
+# 🎓 About Me
 
-**[DevBoard](https://github.com/anoopcodehack/DevBoard)**
-
-A Kanban board application built for developers.
-
-- Contributed a PDF export feature using jsPDF.
-- Implemented landscape A4 layouts with task details, priorities, tags, and pagination.
-- [Merged Pull Request #676](https://github.com/anoopcodehack/DevBoard/pull/676)
-
-**ConnectAI**
-
-A social platform built using the MERN stack.
-
-- Developed a full-stack social application.
-- Worked with React, Node.js, Express, and MongoDB.
-
-**Liv-Tracker**
-
-A real-time tracking application.
-
-- Built using Express.js, EJS, Socket.IO, and Leaflet.
-- Implemented real-time location updates.
+🎓 <em>✏️ A sentence about you and what you do.</em>
+🔐 <em>✏️ A sentence about you and what you do.</em>
+💡 <em>✏️ A sentence about you and what you do.</em>
 
 ---
 
-### Open Source Contributions
+# 🚀 Projects
 
-- [DevBoard — PDF Export Feature #676](https://github.com/anoopcodehack/DevBoard/pull/676) — Merged
+* 🤖 **Jarvis AI Assistant**
+* 💻 <em>✏️ What you built and why it matters.</em>
+* 👁️ <em>✏️ What you built and why it matters.</em>
+* 🎬 **Movie Analysis Project**
 
 ---
 
-### Connect With Me
+# 🏆 Achievements
 
-- GitHub: [@ahmadfaizan18](https://github.com/ahmadfaizan18)
-- LinkedIn: [Faizan Ahmad Ansari](https://www.linkedin.com/in/faizan-ahmad-ansari-119bb9263)
-- LeetCode: [ahmad_faizan](https://leetcode.com/u/ahmad_faizan/)
-- Email: [ahmadfaizan1477@gmail.com](ahmadfaizan1477@gmail.com)
+* 🥈 <em>✏️ Say this in your own words.</em>
+* 🥈 <em>✏️ Say this in your own words.</em>
+* 🏅 <em>✏️ Say this in your own words.</em>
+* 🌍 <em>✏️ Say this in your own words.</em>
+* 🚀 Saarthi National Hackathon
+
+---
+
+# 🌱 Open Source
+
+* 💖 GSSoC Contributor
+* 🎯 Hacktoberfest Contributor
+* 🔗 Open Source Connect
+
+---
+
+# 👩‍💻 IEEE
+
+* 🌸 IEEE WIE Member
+* 🎤 Tech Event Organizer
+
+---
+
+# 🧠 Skills
+
+* Python, C++, Java
+* <em>✏️ The tools you reach for, in a sentence.</em>
+* <em>✏️ The tools you reach for, in a sentence.</em>
+* HTML, CSS, JavaScript
+* Git, GitHub, Canva
+
+---
+
+# 🔥 Badges
+
+![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=google-chrome)](https://github.com/ahmadfaizan18)
+
+---
+
+# 🎨 Fun Fact
+
+* 🎨 Painting & Sketching
+* 🏀 <em>✏️ Say this in your own words.</em>
+
+---
+
+✨ <em>✏️ Say this in your own words.</em>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:you@example.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satnova_2017) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AasthaY48535740) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ahmadfaizan18&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ahmadfaizan18&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadfaizan18&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy-chi-ten.vercel.app/?username=ahmadfaizan18&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 📈 Contribution Activity
+
+![Aastha's Contribution Activity](https://www.gitskins.com/api/section/heatmap?username=ahmadfaizan18&theme=github-dark&mode=dark)
+---
+[![](https://visitcount.itsvg.in/api?id=ahmadfaizan18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ta8jAiAJmV)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange)](https://leetcode.com/Ta8jAiAJmV/)
+
+<p align="center"><sub>Faizan Ahmad Ansari · <a href="https://www.gitskins.com/readme-generator?template=community-light-one-vkwm">Light one</a> template by <a href="https://www.gitskins.com/creators/aastha-yadav2">@aastha-yadav2</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
